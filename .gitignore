@@ -1,0 +1,9 @@
+.venv/
+.env
+data/meetings.db
+data/recordings/
+data/models/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
